@@ -1,0 +1,12 @@
+﻿{
+  "Descriptor": {
+    "UId": "541707a4-8d9c-402b-9271-0bd453bffc9b",
+    "PackageVersion": "0.1.0",
+    "Name": "radiobutton_component",
+    "Type": 1,
+    "ProjectPath": "Files/radiobutton_component.csproj",
+    "ModifiedOnUtc": "/Date(1745566135000)/",
+    "Maintainer": "Customer",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,15 @@
+﻿Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{8950bc9d-c427-47d2-ac44-bbb3ff0e4e71}") = "radiobutton_component", "..\packages\radiobutton_component\Files\radiobutton_component.csproj", "{4f9c004c-81ea-4a49-b670-33295cda0d7f}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+			{4f9c004c-81ea-4a49-b670-33295cda0d7f}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+			{4f9c004c-81ea-4a49-b670-33295cda0d7f}.Debug|Any CPU.Build.0 = Debug|Any CPU
+			{4f9c004c-81ea-4a49-b670-33295cda0d7f}.Release|Any CPU.ActiveCfg = Release|Any CPU
+			{4f9c004c-81ea-4a49-b670-33295cda0d7f}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

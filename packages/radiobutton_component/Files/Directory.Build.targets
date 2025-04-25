@@ -1,0 +1,19 @@
+﻿<Project>
+    <ItemGroup Condition="'$(PkgPath)' != ''">
+        <Compile Remove="$(PkgPath)/radiobutton_component/Assemblies/**" />
+        <Compile Remove="$(PkgPath)/radiobutton_component/Data/**" />
+        <Compile Remove="$(PkgPath)/radiobutton_component/SqlScripts/**" />
+        <Compile Remove="$(PkgPath)/radiobutton_component/Schemas\**" />
+        <Compile Remove="$(PkgPath)/radiobutton_component/Resources/**" />
+        <EmbeddedResource Remove="$(PkgPath)/radiobutton_component/Assemblies/**" />
+        <EmbeddedResource Remove="$(PkgPath)/radiobutton_component/Data/**" />
+        <EmbeddedResource Remove="$(PkgPath)/radiobutton_component/SqlScripts/**" />
+        <EmbeddedResource Remove="$(PkgPath)/radiobutton_component/Schemas/**" />
+        <EmbeddedResource Remove="$(PkgPath)/radiobutton_component/Resources/**" />
+        <None Remove="$(PkgPath)/radiobutton_component/Assemblies/**" />
+        <None Remove="$(PkgPath)/radiobutton_component/Data/**" />
+        <None Remove="$(PkgPath)/radiobutton_component/SqlScripts/**" />
+        <None Remove="$(PkgPath)/radiobutton_component/Schemas/**" />
+        <None Remove="$(PkgPath)/radiobutton_component/Resources/**" />
+    </ItemGroup>
+</Project>
