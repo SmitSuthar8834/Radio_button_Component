@@ -4,9 +4,16 @@
     "PackageVersion": "0.1.0",
     "Name": "radiobutton_component",
     "Type": 1,
-    "ProjectPath": "Files/radiobutton_component.csproj",
-    "ModifiedOnUtc": "/Date(1745566135000)/",
+    "ModifiedOnUtc": "\/Date(1745590442000)\/",
     "Maintainer": "Customer",
-    "DependsOn": []
+    "ProjectPath": "Files/radiobutton_component.csproj",
+    "DependsOn": [
+      {
+        "UId": "2ecba2bd-b810-47a5-a1b1-08c888529d6c",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtCustomer360App",
+        "Type": 1
+      }
+    ]
   }
 }
